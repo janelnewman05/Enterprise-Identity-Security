@@ -69,3 +69,10 @@ SECURITY ALERT: j.smith has 5 failed login attempts.
 ## Project Disclaimer
 
 This project uses fictional accounts, simulated authentication events, and test IP addresses for educational and cybersecurity portfolio purposes.
+## Security Detection Results
+
+The PowerShell script successfully detected five
+simulated failed authentication attempts and
+generated a security alert.
+
+![PowerShell Authentication Detection](screenshots/Day1-Authentication-Detection.png)
